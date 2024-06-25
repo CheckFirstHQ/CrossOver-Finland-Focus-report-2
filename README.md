@@ -8,3 +8,7 @@ This study, unveiled on Monday 1 July 2024, examines TikTok search suggestions, 
 ## Credits
 
 © CheckFirst, Faktabaari - 2024
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
